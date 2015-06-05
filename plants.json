@@ -1,0 +1,1147 @@
+[
+  {
+    "FIELD1":"Toxic plants: Scientific name",
+    "FIELD2":"Common name",
+    "FIELD3":"Toxicity class"
+  },
+  {
+    "FIELD1":"Abies balsamea",
+    "FIELD2":"Balsam fir",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Abrus precatorius",
+    "FIELD2":"Rosary bean; Rosary pea; Jequirity bean",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Acalypha spp.",
+    "FIELD2":"Chenille plant; Copperleaf; Firetail",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Acer spp.",
+    "FIELD2":"Maple",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Achillea millefolium",
+    "FIELD2":"Achillea; Yarrow",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Acokanthera spp.",
+    "FIELD2":"Bushman's poison; Wintersweet",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Aconitum spp.",
+    "FIELD2":"Aconite; Monkshood",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Aesculus spp.",
+    "FIELD2":"Buckeye; California buckeye; Horse chestnut",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Agapanthus spp.",
+    "FIELD2":"African lily; Agapanthus; Lily-of-the-Nile",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Agave spp.",
+    "FIELD2":"Agave; Century plant",
+    "FIELD3":"2,3,4"
+  },
+  {
+    "FIELD1":"Aglaonema spp.",
+    "FIELD2":"Aglaonema; Chinese evergreen",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Ailanthus altissima",
+    "FIELD2":"Ailanthus; Tree-of-heaven",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Alcea rosea",
+    "FIELD2":"Hollyhock",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Allium spp.",
+    "FIELD2":"Allium; Wild onion",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Alnus spp.",
+    "FIELD2":"Alder",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Alocasia spp.",
+    "FIELD2":"Alocasia; Elephant's ear",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Alstroemeria spp.",
+    "FIELD2":"Alstroemeria; Peruvian lily",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Amaranthus caudatus",
+    "FIELD2":"Love-lies-bleeding; Tassel flower",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Amaryllis belladonna",
+    "FIELD2":"Amaryllis; Belladonna lily; Naked lady",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Ammi majus",
+    "FIELD2":"Bishop's weed; False Queen Anne's lace",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Anagallis arvensis",
+    "FIELD2":"Scarlet pimpernel",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Ananas comosus",
+    "FIELD2":"Pineapple",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Anemone spp.",
+    "FIELD2":"Anemone; Pasque flower; Windflower",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Anthurium spp.",
+    "FIELD2":"Anthurium",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Aquilegia spp.",
+    "FIELD2":"Columbine",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Arisaema triphyllum",
+    "FIELD2":"Indian turnip; Jack-in-the-pulpit",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Artemisia spp.",
+    "FIELD2":"Sagebrush; Wormwood",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Arum spp.",
+    "FIELD2":"Arum; Black calla; Italian arum",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Asclepias spp.",
+    "FIELD2":"Butterfly weed; Milkweed",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Asparagus densiflorus",
+    "FIELD2":"Sprenger asparagus",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Asparagus officinalis",
+    "FIELD2":"Garden asparagus",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Aster spp.",
+    "FIELD2":"Aster",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Atropa belladonna",
+    "FIELD2":"Belladonna; Deadly nightshade",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Aucuba japonica",
+    "FIELD2":"Japanese aucuba",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Begonia spp. (some species)",
+    "FIELD2":"Begonia",
+    "FIELD3":"2,3"
+  },
+  {
+    "FIELD1":"Bellis perennis",
+    "FIELD2":"English daisy",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Berberis spp.",
+    "FIELD2":"Barberry",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Betula spp.",
+    "FIELD2":"Birch tree",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Bougainvillea spp.",
+    "FIELD2":"Bougainvillea (thorns)",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Brachychiton populneus",
+    "FIELD2":"Bottle tree",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Brugmansia spp.",
+    "FIELD2":"Angel's trumpet; Jimson weed",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Buxus sempervirens",
+    "FIELD2":"Boxwood",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Cactus spp.",
+    "FIELD2":"Cactus (thorns and sap)",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Caesalpina gilliesii",
+    "FIELD2":"Bird-of-paradise shrub; Poinciana",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Caladium bicolor",
+    "FIELD2":"Caladium",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Calluna vulgaris",
+    "FIELD2":"Heather",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Caltha palustris",
+    "FIELD2":"Marsh marigold",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Campsis radicans",
+    "FIELD2":"Trumpet creeper; Trumpet vine",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Carissa macrocarpa",
+    "FIELD2":"Natal plum",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Caryota spp.",
+    "FIELD2":"Fishtail palm",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Celastrus scandens",
+    "FIELD2":"Bittersweet",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Cestrum spp.",
+    "FIELD2":"Cestrum; Jessamine; Night-blooming jessamine",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Chamaemelum nobile",
+    "FIELD2":"Chamomile",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Chrysanthemum maximum",
+    "FIELD2":"Shasta daisy",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Chrysanthemum spp.",
+    "FIELD2":"Chrysanthemum; Daisy; Marguerite daisy",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Cicuta spp.",
+    "FIELD2":"Water hemlock",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Cinnamomum camphora",
+    "FIELD2":"Camphor tree",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Cissus rhombifolia",
+    "FIELD2":"Grape ivy",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Clematis spp.",
+    "FIELD2":"Clematis",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Clivia spp.",
+    "FIELD2":"Clivia, Kaffir lily",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Codiaeum variegatum",
+    "FIELD2":"Croton",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Coffea arabica",
+    "FIELD2":"Coffee plant",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Colchicum autumnale",
+    "FIELD2":"Autumn crocus; Meadow saffron",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Colocasia esculenta",
+    "FIELD2":"Taro;coco yam",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Colocasia spp.",
+    "FIELD2":"Elephant's ear",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Conium maculatum",
+    "FIELD2":"Poison hemlock",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Convallaria majalis",
+    "FIELD2":"Lily-of-the-valley",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Cornus spp.",
+    "FIELD2":"Dogwood",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Cortaderia selloana",
+    "FIELD2":"Pampas grass",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Corynocarpus laevigata",
+    "FIELD2":"New Zealand laurel",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Cotinus coggygria",
+    "FIELD2":"Smoke bush",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Cotoneaster spp.",
+    "FIELD2":"Cotoneaster",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Crassula argentea",
+    "FIELD2":"Jade plant",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Crinum spp.",
+    "FIELD2":"Crinum lily",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Cuphea hyssopifolia",
+    "FIELD2":"False heather",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Cycas revoluta",
+    "FIELD2":"Sago palm",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Cyclamen spp.",
+    "FIELD2":"Cyclamen",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Cynodon dactylon",
+    "FIELD2":"Bermudagrass",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Cyperus alternifolius",
+    "FIELD2":"Umbrella plant",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Cypripedium spp.",
+    "FIELD2":"Lady slipper orchid",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Cytisus spp.",
+    "FIELD2":"Broom, Scotch broom",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Daphne spp.",
+    "FIELD2":"Daphne",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Daucus carota",
+    "FIELD2":"Queen Anne's lace",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Delphinium spp.",
+    "FIELD2":"Delphinium; Larkspur",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Dianthus barbatus",
+    "FIELD2":"Sweet William",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Dianthus caryophyllus",
+    "FIELD2":"Carnation",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Dianthus spp.",
+    "FIELD2":"Pink",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Dicentra spp.",
+    "FIELD2":"Bleeding heart",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Dichondra micrantha",
+    "FIELD2":"Dichondra",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Dieffenbachia spp.",
+    "FIELD2":"Dieffenbachia; Dumb cane",
+    "FIELD3":"3"
+  },
+  {
+    "FIELD1":"Digitalis purpurea",
+    "FIELD2":"Foxglove",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Echium vulgare",
+    "FIELD2":"Echium",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Epipremnum aureum",
+    "FIELD2":"Pothos",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Erigeron spp.",
+    "FIELD2":"Fleabane",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Eriobotrya japonica",
+    "FIELD2":"Loquat (seeds)",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Erythrina spp.",
+    "FIELD2":"Coral tree",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Eucalyptus spp.",
+    "FIELD2":"Blue gum; Eucalyptus",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Euonymus spp.",
+    "FIELD2":"Burning bush; Euonymus",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Euphorbia spp.",
+    "FIELD2":"Crown of thorns; Euphorbia; Gopher plant; Pencil tree; Poinsettia; Snow-on-the-mountain",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Festuca spp.",
+    "FIELD2":"Fescue (grass)",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Ficus carica and Ficus spp.",
+    "FIELD2":"Fig",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Ficus elastica",
+    "FIELD2":"Rubber plant",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Ficus lyrata",
+    "FIELD2":"Fiddle-leaf fig",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Ficus benjamina",
+    "FIELD2":"Weeping fig",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Fraxinus spp.",
+    "FIELD2":"Ash",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Fritillaria meleagris",
+    "FIELD2":"Checkered lily; Snakeshead",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Gaillardia spp.",
+    "FIELD2":"Blanket flower",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Galanthus spp.",
+    "FIELD2":"Snowdrop",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Gelsemium sempervirens",
+    "FIELD2":"Carolina jessamine",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Ginkgo biloba",
+    "FIELD2":"Ginkgo; Maidenhair tree",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Gladiolus spp.",
+    "FIELD2":"Gladiolus",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Glechoma hederacea",
+    "FIELD2":"Creeping Charlie; Ground ivy",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Gloriosa spp.",
+    "FIELD2":"Climbing lily; Glory lily",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Grevillea spp.",
+    "FIELD2":"Grevillea; Silk oak",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Gypsophila paniculata",
+    "FIELD2":"Baby's breath",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Haemanthus spp.",
+    "FIELD2":"Blood lily",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Hedera spp.",
+    "FIELD2":"English ivy; Ivy",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Heliotropum arborescens",
+    "FIELD2":"Heliotrope",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Helleborus spp.",
+    "FIELD2":"Christmas rose; Hellebore; Lenten rose",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Heteromeles arbutifolia",
+    "FIELD2":"Toyon",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Hippeastrum spp.",
+    "FIELD2":"Amaryllis",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Hyacinthus orientalis",
+    "FIELD2":"Hyacinth",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Hydrangea spp.",
+    "FIELD2":"Hydrangea",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Hymenocallis spp.",
+    "FIELD2":"Spider lily",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Hyoscyamus niger",
+    "FIELD2":"Deadly nightshade; Black henbane",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Hypericum calycinum",
+    "FIELD2":"St. Johnswort",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Iberis sempervirens",
+    "FIELD2":"Evergreen candytuft",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Ilex spp.",
+    "FIELD2":"Holly (berries)",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Ipomoea spp.",
+    "FIELD2":"Morning glory (seeds)",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Iris spp.",
+    "FIELD2":"Dutch iris; Iris",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Jatropha spp.",
+    "FIELD2":"Coral plant; Jatropha",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Juglans spp.",
+    "FIELD2":"Walnut",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Juniperus spp.",
+    "FIELD2":"Juniper",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Kalmia latifolia",
+    "FIELD2":"Mountain laurel",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Laburnum anagyroides",
+    "FIELD2":"Goldenchain tree; Laburnum",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Lantana camara",
+    "FIELD2":"Lantana",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Lathyrus odoratus",
+    "FIELD2":"Sweet pea (seeds)",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Leucojum spp.",
+    "FIELD2":"Snowflake",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Ligustrum spp.",
+    "FIELD2":"Ligustrum; Privet",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Lilium spp. (some species)",
+    "FIELD2":"Lily",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Linum usitatissimum",
+    "FIELD2":"Flax",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Lobelia spp.",
+    "FIELD2":"Cardinal flower; Lobelia",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Lupinus spp.",
+    "FIELD2":"Lupine",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Lycopersicon esculentum",
+    "FIELD2":"Tomato (non-fruit parts)",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Lycoris spp.",
+    "FIELD2":"Spider lily",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Malus spp.",
+    "FIELD2":"Apple (seeds); Crabapple (seeds)",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Melaleuca quinquenervia",
+    "FIELD2":"Cajeput tree",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Melia azedarach",
+    "FIELD2":"Chinaberry",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Melianthus spp.",
+    "FIELD2":"Honey bush",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Mirabilis jalapa",
+    "FIELD2":"Four-o'clock",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Monstera deliciosa",
+    "FIELD2":"Split-leaf philodendron",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Myoporum laetum",
+    "FIELD2":"Myoporum",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Myrsine africana",
+    "FIELD2":"African boxwood",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Myrtus communis",
+    "FIELD2":"Myrtle",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Narcissus spp.",
+    "FIELD2":"Daffodil (bulb); Jonquil (bulb); Narcissus (bulb)",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Nerine spp.",
+    "FIELD2":"Guernsey lily; Nerine",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Nerium oleander",
+    "FIELD2":"Oleander",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Nicotiana glauca",
+    "FIELD2":"Flowering tobacco; Tree tobacco",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Nigella damascena",
+    "FIELD2":"Love-in-a-mist",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Ornithogalum spp.",
+    "FIELD2":"Ornithogalum; Pregnant onion; Star-of-Bethlehem",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Papaver nudicaule",
+    "FIELD2":"Iceland poppy",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Papaver spp.",
+    "FIELD2":"Poppy",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Parthenocissus spp.",
+    "FIELD2":"Boston ivy; Virginia creeper",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Phacelia spp.",
+    "FIELD2":"Desert bluebells",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Philodendron spp.",
+    "FIELD2":"Heart leaf; Philodendron",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Phoradendron spp.",
+    "FIELD2":"Mistletoe",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Physalis spp.",
+    "FIELD2":"Chinese lantern; Groundcherry",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Phytolacca americana",
+    "FIELD2":"Pokeweed",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Pieris japonica",
+    "FIELD2":"Japanese pieris",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Pittosporum spp.",
+    "FIELD2":"Pittosporum",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Plumbago auriculata",
+    "FIELD2":"Cape plumbago",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Plumeria rubra",
+    "FIELD2":"Frangipani; Plumeria",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Podocarpus macrophyllus",
+    "FIELD2":"Yew pine",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Podophyllum peltatum",
+    "FIELD2":"May apple",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Polianthes tuberosa",
+    "FIELD2":"Tuberose",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Polyscias spp.",
+    "FIELD2":"Ming aralia",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Primula spp.",
+    "FIELD2":"Primrose; Primula",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Prunus caroliniana",
+    "FIELD2":"Carolina laurel cherry; Laurel cherry",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Prunus laurocerasus",
+    "FIELD2":"English laurel",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Prunus spp.",
+    "FIELD2":"seeds of these plants: Almond; Apricot; Black cherry; Cherry; Nectarine; Peach; Nectarine",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Prunus virginiana",
+    "FIELD2":"Chokecherry",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Pyracantha spp.",
+    "FIELD2":"Firethorn; Pyracantha",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Pyrus spp.",
+    "FIELD2":"Pear (seeds)",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Quercus spp.",
+    "FIELD2":"Oak tree (acorns)",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Ranunculus spp.",
+    "FIELD2":"Buttercup; Ranunculus",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Rhamnus spp.",
+    "FIELD2":"Buckthorn; Coffeeberry",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Rheum rhabarbarum",
+    "FIELD2":"Rhubarb (leaves)",
+    "FIELD3":"3"
+  },
+  {
+    "FIELD1":"Rhododendron spp.",
+    "FIELD2":"Azalea; Rhododendron",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Rhoeo spathacea",
+    "FIELD2":"Moses-in-the-cradle",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Ricinus communis",
+    "FIELD2":"Castor bean",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Robinia pseudoacacia",
+    "FIELD2":"Black locust (seeds)",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Ruta graveolens",
+    "FIELD2":"Rue",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Sambucus spp.",
+    "FIELD2":"Elderberry (ripe fruit is nontoxic)",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Sansevieria spp.",
+    "FIELD2":"Snake plant",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Sapium sebiferum",
+    "FIELD2":"Chinese tallow tree",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Schefflera actinophylla",
+    "FIELD2":"Schefflera; Umbrella tree",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Schinus molle",
+    "FIELD2":"California pepper tree",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Schinus terebinthifolius",
+    "FIELD2":"Brazilian pepper tree",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Scilla spp.",
+    "FIELD2":"Peruvian scilla; Squill",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Senecio hybridus",
+    "FIELD2":"Cineraria",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Senecio spp. (some species)",
+    "FIELD2":"Dusty miller; String of beads",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Sequoia sempervirens",
+    "FIELD2":"Coast redwood",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Solanum pseudocapsicum",
+    "FIELD2":"Jerusalem cherry",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Solanum spp.",
+    "FIELD2":"Black nightshade; Deadly nightshade",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Solanum tuberosum",
+    "FIELD2":"Potato plant (green parts)",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Spathiphyllum spp.",
+    "FIELD2":"Spathiphyllum",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Symphoricarpos spp.",
+    "FIELD2":"Coralberry; Indian currant; Snowberry",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Syngonium podophyllum",
+    "FIELD2":"Arrowhead plant; Nephthytis",
+    "FIELD3":"3"
+  },
+  {
+    "FIELD1":"Tagetes spp.",
+    "FIELD2":"Marigold",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Tanacetum spp.",
+    "FIELD2":"Tansy",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Taxus baccata",
+    "FIELD2":"English yew (seeds)",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Taxus spp.",
+    "FIELD2":"Japanese yew (seeds)",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Thevetia peruviana",
+    "FIELD2":"Oleander, Yellow",
+    "FIELD3":"1,4"
+  },
+  {
+    "FIELD1":"Thuja spp.",
+    "FIELD2":"Arborvitae",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Toxicodendron diversilobum",
+    "FIELD2":"Poison oak",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Tradescantia spp.",
+    "FIELD2":"Wandering jew",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Tulipa spp.",
+    "FIELD2":"Tulip (bulb)",
+    "FIELD3":"2,4"
+  },
+  {
+    "FIELD1":"Ulmus spp.",
+    "FIELD2":"Elm tree",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Umbellularia californica",
+    "FIELD2":"California bay; California laurel",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Urtica spp.",
+    "FIELD2":"Stinging nettles",
+    "FIELD3":"4"
+  },
+  {
+    "FIELD1":"Veratrum spp.",
+    "FIELD2":"Skunk cabbage",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Vinca spp.",
+    "FIELD2":"Myrtle; Periwinkle; Vinca",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Viola spp.",
+    "FIELD2":"Pansy (seeds); Violet (seeds)",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Viscum album",
+    "FIELD2":"European mistletoe",
+    "FIELD3":"1"
+  },
+  {
+    "FIELD1":"Wisteria spp.",
+    "FIELD2":"Wisteria",
+    "FIELD3":"2"
+  },
+  {
+    "FIELD1":"Xanthosoma spp.",
+    "FIELD2":"Elephant's ear",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Zantedeschia aethiopica",
+    "FIELD2":"Calla lily",
+    "FIELD3":"3,4"
+  },
+  {
+    "FIELD1":"Zigadenus spp.",
+    "FIELD2":"Death camas",
+    "FIELD3":"1"
+  }
+]
